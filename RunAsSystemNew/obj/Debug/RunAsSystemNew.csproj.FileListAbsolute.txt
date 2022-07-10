@@ -1,0 +1,7 @@
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\bin\Debug\RunAsSystemNew.exe.config
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\bin\Debug\RunAsSystemNew.exe
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\bin\Debug\RunAsSystemNew.pdb
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.csproj.CoreCompileInputs.cache
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.exe
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.pdb
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.csproj.AssemblyReference.cache
