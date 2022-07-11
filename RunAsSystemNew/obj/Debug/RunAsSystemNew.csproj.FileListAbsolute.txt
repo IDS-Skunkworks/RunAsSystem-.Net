@@ -1,0 +1,15 @@
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\bin\Debug\RunAsSystemNew.exe.config
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\bin\Debug\RunAsSystemNew.exe
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\bin\Debug\RunAsSystemNew.pdb
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.csproj.CoreCompileInputs.cache
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.exe
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.pdb
+C:\Users\andyb\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.csproj.AssemblyReference.cache
+C:\Users\andy.bridgwater\source\repos\RunAsSystemNew\RunAsSystemNew\bin\Debug\RunAsSystemNew.exe.config
+C:\Users\andy.bridgwater\source\repos\RunAsSystemNew\RunAsSystemNew\bin\Debug\RunAsSystemNew.exe
+C:\Users\andy.bridgwater\source\repos\RunAsSystemNew\RunAsSystemNew\bin\Debug\RunAsSystemNew.pdb
+C:\Users\andy.bridgwater\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.csproj.AssemblyReference.cache
+C:\Users\andy.bridgwater\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.csproj.SuggestedBindingRedirects.cache
+C:\Users\andy.bridgwater\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.csproj.CoreCompileInputs.cache
+C:\Users\andy.bridgwater\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.exe
+C:\Users\andy.bridgwater\source\repos\RunAsSystemNew\RunAsSystemNew\obj\Debug\RunAsSystemNew.pdb
